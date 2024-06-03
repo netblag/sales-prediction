@@ -57,4 +57,4 @@
 - Consideration of next steps for further analysis
 - Consistency in formatting and terminology
 
-[Github](github.com/netblag/sales-prediction-using-python)
+## [Github](https://github.com/netblag/sales-prediction-using-python/tree/main)
